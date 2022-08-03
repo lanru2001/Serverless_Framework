@@ -6,6 +6,7 @@ The Serverless Framework is a command-line tool that uses easy and approachable 
 
 
 ## Installation and setting environment for  Serverless :
-  - Install npm 
-  - npm install -g serverless 
+  - Install npm with the instruction from this link - https://kinsta.com/blog/how-to-install-node-js/
+  - npm install -g serverless
+  - serverless config credentials --provider aws --key ******* --secret *********  --profile serverlessUser
   
